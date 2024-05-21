@@ -1,0 +1,4 @@
+*.*.* foo.bar.anything
+#.anything foo.bar.var.anything
+foo.bar.*  foo.bar.anything 
+foo.bar.# foo.bar.anything.nothing
